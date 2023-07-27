@@ -7,9 +7,9 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-Client/node_modules
+node_modules
 Server/node_modules
-Client/.env
+.env
 Server/.env
 dist
 dist-ssr
